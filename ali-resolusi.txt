@@ -1,0 +1,16 @@
+ALI RESOLUSI
+- Memahami konsep HTML & CSS.
+- Memahami CSS Framework seperti Bootstrap, Tailwind CSS, Foundation, Bulma, Materialize CSS & UIKit.
+- Mempelajari tentang GIT & GitHub.
+- Memahami konsep dasar Javascript.
+- Memahami konsep Object Oriented Programming ( OOP ) pada Javascript.
+- Memahami konsep Document Object Modeling ( DOM ) pada Javascript.
+- Memahami konsep Asynchronous pada Javascript.
+- Mempelajari tentang CSS Preproccessor seperti PostCSS, Less & SASS.
+- Mempelajari tentang Node.js & npm sebagai package manager.
+- Mempelajari tentang package manager seperti yarn & npm.
+- Mempelajari tentang Framework Frontend atau Framework Javascript seperti Reactjs, Vue.js, Angular & Svelte.
+- Mempelajari tentang Typescript.
+- Mempelajari tentang API seperti GraphQL dan Rest API.
+- Mempelajari tentang konsep PHP.
+- Mempelajari tentang Framework PHP seperti Laravel & Codeigniter.
