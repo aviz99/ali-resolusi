@@ -8,9 +8,10 @@ RENCANA MATERI YANG INGIN DIPELAJARI ALI HAVIZNI
 - Javascript OOP
 - Javascript DOM
 - Javascript Async
+- Modern Javascript
 - CSS Preproccessor ( SASS, PostCSS & LESS )
 - Node.js & npm
-- Framework Frontend / Framework Javascript ( React.js, Vue.js, Angular, Svelte & Remix )
+- Frontend Framework / Javascript Framework ( React.js, Vue.js, Angular, Svelte & Remix )
 - Typescript, Next.js & Gatsby
 - API ( GraphQL, Rest API, JSON )
 - PHP
