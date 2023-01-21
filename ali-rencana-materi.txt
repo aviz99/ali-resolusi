@@ -16,3 +16,4 @@ RENCANA MATERI YANG INGIN DIPELAJARI ALI HAVIZNI
 - API ( GraphQL, Rest API, JSON )
 - PHP
 - Framework PHP ( Laravel & Codeigniter )
+- State Management ( Redux, Vuex & RXjs )
