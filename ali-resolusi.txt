@@ -1,6 +1,6 @@
 ALI RESOLUSI
-- Memahami konsep HTML & CSS.
-- Memahami CSS Framework seperti Bootstrap, Tailwind CSS, Foundation, Bulma, Materialize CSS & UIKit.
+- Memahami konsep HTML & CSS. ✔
+- Memahami salah satu dari CSS Framework seperti Bootstrap ✔, Tailwind CSS, Foundation, Bulma, Materialize CSS & UIKit.
 - Mempelajari tentang GIT & GitHub.
 - Memahami konsep dasar Javascript.
 - Memahami konsep Object Oriented Programming ( OOP ) pada Javascript.
