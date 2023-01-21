@@ -1,6 +1,7 @@
 RENCANA MATERI YANG INGIN DIPELAJARI ALI HAVIZNI
 
 - HTML
+- HTML5
 - CSS
 - CSS Framework ( Bootstrap, Tailwind CSS, Foundation, Bulma, Materialize CSS & UIKit )
 - GIT & GitHub
@@ -17,3 +18,4 @@ RENCANA MATERI YANG INGIN DIPELAJARI ALI HAVIZNI
 - PHP
 - Framework PHP ( Laravel & Codeigniter )
 - State Management ( Redux, Vuex & RXjs )
+- Build Tools & Task Runner ( GRUND, GULP, Webpack & VIT )
